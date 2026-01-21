@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc42e6f3-36e4-44cd-9549-fe64c22d1bfc" name="Changes" comment="Adding 17 Oct 2025 changes to ticker_data_coinbase.json" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ASKotze&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ASKotze/Coinbase&quot;,
+    &quot;accountId&quot;: &quot;fbcf8c7f-d689-4679-8a0a-d09d8158659c&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="30ocDRLxvi8HmXHQF1GYjDAyhnD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Coinbase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Luno.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ticker_data_coinbase.json.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/ASK/Python/ASK - Projects/Coinbase&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ASK\Python\ASK - Projects\Coinbase" />
+      <recent name="C:\ASK\Python\ASK - Projects" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Coinbase" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 (ASK - Projects)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Coinbase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0978a7220b69-9867c7d4c0a4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.28294.336" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc42e6f3-36e4-44cd-9549-fe64c22d1bfc" name="Changes" comment="" />
+      <created>1754297246008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754297246008</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add Coinbase.py file to repository">
+      <option name="closed" value="true" />
+      <created>1760619649741</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760619649741</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add ticker_data_coinbase.json file to repository">
+      <option name="closed" value="true" />
+      <created>1760619709027</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760619709027</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add ticker_data_coinbase.json file to repository">
+      <option name="closed" value="true" />
+      <created>1760620135241</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760620135241</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add ticker_data_coinbase.json file to repository">
+      <option name="closed" value="true" />
+      <created>1760620470034</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760620470034</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding ticker_data_coinbase.json to repository">
+      <option name="closed" value="true" />
+      <created>1760622328729</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760622328729</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adding 16 Oct 2025 changes to Coinbase.py">
+      <option name="closed" value="true" />
+      <created>1760624369145</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1760624369145</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Adding 16 Oct 2025 changes to ticker_data_coinbase.json">
+      <option name="closed" value="true" />
+      <created>1760624396129</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1760624396129</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Adding 17 Oct 2025 changes to ticker_data_coinbase.json">
+      <option name="closed" value="true" />
+      <created>1760689589839</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1760689589839</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Add Coinbase.py file to repository" />
+    <MESSAGE value="Add ticker_data_coinbase.json file to repository" />
+    <MESSAGE value="Adding ticker_data_coinbase.json to repository" />
+    <MESSAGE value="Adding 16 Oct 2025 changes to Coinbase.py" />
+    <MESSAGE value="Adding 16 Oct 2025 changes to ticker_data_coinbase.json" />
+    <MESSAGE value="Adding 17 Oct 2025 changes to ticker_data_coinbase.json" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding 17 Oct 2025 changes to ticker_data_coinbase.json" />
+  </component>
+</project>
